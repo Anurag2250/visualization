@@ -65,7 +65,6 @@ This will print outlier counts to the console and display the dashboard figure.
 
 ![Dashboard preview](Figure_1.png)
 
-*(Add a screenshot of the generated dashboard here, e.g. by saving the figure with `plt.savefig('dashboard_preview.png', dpi=150, bbox_inches='tight')` before `plt.show()`.)*
 
 ## Notes
 
