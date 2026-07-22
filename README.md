@@ -56,7 +56,7 @@ A 3x2 `matplotlib`/`seaborn` grid summarizing the cleaned data:
 ## Usage
 
 ```bash
-python covid_analysis.py
+visual.py
 ```
 
 This will print outlier counts to the console and display the dashboard figure.
